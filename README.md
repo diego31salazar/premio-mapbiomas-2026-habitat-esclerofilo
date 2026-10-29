@@ -1,5 +1,7 @@
 # Estructura espacial del hábitat potencial de especies del bosque y matorral esclerófilo de Chile central
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23753257.svg)](https://doi.org/10.5281/zenodo.23753257)
+
 Código de la tesis de Magíster en Geografía (Universidad de Chile, 2026):
 
 > **Análisis de la evolución de la estructura espacial de hábitats para las especies *Jubaea chilensis*, *Quillaja saponaria* y *Vachellia caven* bajo un enfoque que integra los cambios de uso y cobertura de suelo y la idoneidad ambiental, en las regiones de Valparaíso, Metropolitana de Santiago y del Libertador Bernardo O'Higgins.**
@@ -90,7 +92,7 @@ Los datos no se incluyen en el repositorio. Todos provienen de fuentes públicas
 
 ## Cómo citar
 
-Salazar Canales, D. (2026). *Análisis de la evolución de la estructura espacial de hábitats para las especies Jubaea chilensis, Quillaja saponaria y Vachellia caven bajo un enfoque que integra los cambios de uso y cobertura de suelo y la idoneidad ambiental* [Tesis de Magíster en Geografía, Universidad de Chile]. Código disponible en: https://github.com/diego31salazar/premio-mapbiomas-2026-habitat-esclerofilo
+Salazar Canales, D. (2026). *Análisis de la evolución de la estructura espacial de hábitats para las especies Jubaea chilensis, Quillaja saponaria y Vachellia caven bajo un enfoque que integra los cambios de uso y cobertura de suelo y la idoneidad ambiental* [Tesis de Magíster en Geografía, Universidad de Chile]. Código disponible en: https://github.com/diego31salazar/premio-mapbiomas-2026-habitat-esclerofilo (archivado en Zenodo, DOI: [10.5281/zenodo.23753257](https://doi.org/10.5281/zenodo.23753257))
 
 ---
 
